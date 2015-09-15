@@ -6,7 +6,7 @@ var Boom = require('boom')
 var GoodLogger = require('good')
 var GoodConsole = require('good-console')
 var extend = require('extend-object')
-var env = require('env.json')
+var env = require('./env.json')
 
 var server = new Hapi.Server()
 var port = process.env.PORT || 5000
