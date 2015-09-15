@@ -1,0 +1,7 @@
+{
+  "name": "GitHub Secret Keeper",
+  "description": "Microservice to enable GitHub login for multiple server-less applications.",
+  "website": "https://github.com/henrikjoreteg/github-secret-keeper",
+  "repository": "https://github.com/henrikjoreteg/github-secret-keeper",
+  "keywords": ["node", "hapi", "github", "oauth"]
+}

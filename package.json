@@ -1,0 +1,19 @@
+{
+  "name": "github-secret-keeper",
+  "description": "Microservice to enable GitHub login for multiple server-less applications.",
+  "version": "1.0.0",
+  "author": "Henrik Joreteg <henrik@joreteg.com>",
+  "dependencies": {
+    "boom": "^2.8.0",
+    "extend-object": "^1.0.0",
+    "good": "^6.3.0",
+    "good-console": "^5.0.3",
+    "got": "^4.2.0",
+    "hapi": "^10.0.0"
+  },
+  "devDependencies": {
+    "standard": "^5.2.2"
+  },
+  "license": "MIT",
+  "main": "server.js"
+}
