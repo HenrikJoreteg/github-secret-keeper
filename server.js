@@ -15,7 +15,7 @@ var port = process.env.PORT || 5000
 extend(process.env, env)
 
 server.connection({
-  host: 'localhost',
+  host: '0.0.0.0',
   port: port,
   routes: { cors: true }
 })
